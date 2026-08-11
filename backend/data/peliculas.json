@@ -3307,6 +3307,7 @@
     "director": "Anthony Russo, Joe Russo",
     "duracion": 180,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://www.sopitas.com/wp-content/uploads/2026/01/avengers-doomsday-691x1024.jpeg"
   },
   {
@@ -3317,6 +3318,7 @@
     "director": "Destin Daniel Cretton",
     "duracion": 140,
     "clasificacion": "PG-13",
+    "plataforma": "Cine",
     "imagen": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
@@ -3327,6 +3329,7 @@
     "director": "Craig Gillespie",
     "duracion": 130,
     "clasificacion": "PG-13",
+    "plataforma": "Max",
     "imagen": "https://m.media-amazon.com/images/M/MV5BMmJkOTE0MWUtY2E5OS00NzEyLWI4NjEtYzQzYzFmMjk5ODE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
@@ -3337,6 +3340,7 @@
     "director": "James Gunn",
     "duracion": 129,
     "clasificacion": "PG-13",
+    "plataforma": "Max",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWFrF4ocjh4NSWCK6aRYmw2AWXKdagbGdgcn-G4GXVfw&s=10"
   },
   {
@@ -3347,6 +3351,7 @@
     "director": "Matt Shakman",
     "duracion": 126,
     "clasificacion": "PG-13",
+    "plataforma": "Max",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7qmSnIjQgQOVxMVJXEwHaXqxZkTY1ebDWFXXKzXsdg&s=10"
   },
   {
@@ -3357,6 +3362,7 @@
     "director": "Jake Schreier",
     "duracion": 126,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrOs8Arvi66-SZ8dfKJYrScwlK9rPwpb615nczfthG3vfwfkMIuP_V9DbS&s=10"
   },
   {
@@ -3367,6 +3373,7 @@
     "director": "Julius Onah",
     "duracion": 118,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsQn1g2B5mq31LrZ6R8ZJAGyFsU-7ZVzuQKDRyRXxCQ&s=10"
   },
   {
@@ -3377,6 +3384,7 @@
     "director": "Shawn Levy",
     "duracion": 127,
     "clasificacion": "R",
+    "plataforma": "Disney+",
     "imagen": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
@@ -3387,6 +3395,7 @@
     "director": "Todd Phillips",
     "duracion": 138,
     "clasificacion": "R",
+    "plataforma": "Disney+",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShOIMDeKjw0kBV-AizHCJXjEfVeoTgVrYY-iTnXiMm6A&s=10"
   },
   {
@@ -3397,6 +3406,7 @@
     "director": "James Wan",
     "duracion": 124,
     "clasificacion": "PG-13",
+    "plataforma": "Max",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-79z04c2FUi3sF3ohocfIoA_dMFLurB95Yfwotu8tQ&s=10"
   },
   {
@@ -3407,6 +3417,7 @@
     "director": "Ángel Manuel Soto",
     "duracion": 127,
     "clasificacion": "PG-13",
+    "plataforma": "Max",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafm5VsEOQjEqK3FNiyZPGn4oyEP2OETaRVTSNWe56ZA&s=10"
   },
   {
@@ -3417,6 +3428,7 @@
     "director": "Andy Muschietti",
     "duracion": 144,
     "clasificacion": "PG-13",
+    "plataforma": "Max",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTj0lL45HZka3YnGY1ZZxGU9zwlvbiRZUYyqySB_reUQ&s=10"
   },
   {
@@ -3427,6 +3439,7 @@
     "director": "James Gunn",
     "duracion": 150,
     "clasificacion": "PG-13",
+    "plataforma": "Max",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcL59NRr0QE-H2HPB0WHOkJTxQpBHzQnb03uJnYbB_aQ&s=10"
   },
   {
@@ -3437,6 +3450,7 @@
     "director": "Peyton Reed",
     "duracion": 125,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://m.media-amazon.com/images/M/MV5BMThkYWY5ZjQtYjJlMS00MDFmLWFkYzEtODEzZjg5YWFmMGY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
@@ -3447,6 +3461,7 @@
     "director": "Ryan Coogler",
     "duracion": 161,
     "clasificacion": "PG-13",
+    "plataforma": "Max",
     "imagen": "https://es.web.img3.acsta.net/c_310_420/pictures/22/10/03/15/27/0389048.jpg"
   },
   {
@@ -3457,6 +3472,7 @@
     "director": "Taika Waititi",
     "duracion": 119,
     "clasificacion": "PG-13",
+    "plataforma": "Max",
     "imagen": "https://m.media-amazon.com/images/M/MV5BZjRiMDhiZjQtNjk5Yi00ZDcwLTkyYTEtMDc1NjdmNjFhNGIzXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg"
   },
   {
@@ -3467,6 +3483,7 @@
     "director": "Sam Raimi",
     "duracion": 126,
     "clasificacion": "PG-13",
+    "plataforma": "Max",
     "imagen": "https://m.media-amazon.com/images/M/MV5BN2YxZGRjMzYtZjE1ZC00MDI0LThjZmQtZTZmMzVmMmQ2NzBmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
@@ -3477,6 +3494,7 @@
     "director": "Jaume Collet-Serra",
     "duracion": 125,
     "clasificacion": "PG-13",
+    "plataforma": "Max",
     "imagen": "https://upload.wikimedia.org/wikipedia/en/a/a9/Black_Adam_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
   },
   {
@@ -3487,6 +3505,7 @@
     "director": "Matt Reeves",
     "duracion": 176,
     "clasificacion": "PG-13",
+    "plataforma": "Max",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4IDc3tfaabaI9F5JYaz0Vp0Dyuis24mVrRxhPHdSBYH9rfXVSwoHa6WI&s=10"
   },
   {
@@ -3497,6 +3516,7 @@
     "director": "Jon Watts",
     "duracion": 148,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://es.web.img3.acsta.net/pictures/22/09/06/11/05/4230327.jpg"
   },
   {
@@ -3507,6 +3527,7 @@
     "director": "Chloé Zhao",
     "duracion": 157,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://m.media-amazon.com/images/M/MV5BZTBiZjI2M2UtZTNiNy00NmU4LWJiMjYtZjk4MDIzMzhlMjFlXkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -3517,6 +3538,7 @@
     "director": "Destin Daniel Cretton",
     "duracion": 132,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://m.media-amazon.com/images/M/MV5BZmY5MDcyNzAtYzg3MC00MGNlLTg3OGItNmRjYThkZGVlNzAyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
@@ -3527,6 +3549,7 @@
     "director": "Cate Shortland",
     "duracion": 134,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://m.media-amazon.com/images/M/MV5BZTMyZTA0ZTItYjY3Yi00ODNjLWExYTgtYzgxZTk0NTg0Y2FlXkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -3537,6 +3560,7 @@
     "director": "Zack Snyder",
     "duracion": 242,
     "clasificacion": "R",
+    "plataforma": "Disney+",
     "imagen": "https://m.media-amazon.com/images/M/MV5BNDA0MzM5YTctZTU2My00NGQ5LWE2NTEtNDM0MjZmMDBkOTZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
@@ -3547,6 +3571,7 @@
     "director": "James Gunn",
     "duracion": 132,
     "clasificacion": "R",
+    "plataforma": "Disney+",
     "imagen": "https://m.media-amazon.com/images/M/MV5BYmZmODEwNzYtZWUwZC00YzE2LWIzYmMtYWU0MWJjMjdlODhmXkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -3557,6 +3582,7 @@
     "director": "Patty Jenkins",
     "duracion": 151,
     "clasificacion": "PG-13",
+    "plataforma": "Max",
     "imagen": "https://m.media-amazon.com/images/M/MV5BYTdkYjI0M2ItMmUxZi00YjU1LTgwM2ItODgxNDY0ODZhZDQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
@@ -3567,6 +3593,7 @@
     "director": "Cathy Yan",
     "duracion": 109,
     "clasificacion": "R",
+    "plataforma": "Max",
     "imagen": "https://m.media-amazon.com/images/M/MV5BNTgwNWEwOWMtNGIxMy00YzU5LTk2MzgtMjAzMmM1MjZiY2RiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
@@ -3577,6 +3604,7 @@
     "director": "Jon Watts",
     "duracion": 129,
     "clasificacion": "PG-13",
+    "plataforma": "Netflix",
     "imagen": "https://static.wikia.nocookie.net/marveldatabase/images/f/f8/Spider-Man_Far_From_Home_poster_006.jpg/revision/latest?cb=20190522174627"
   },
   {
@@ -3587,6 +3615,7 @@
     "director": "Anthony Russo, Joe Russo",
     "duracion": 181,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_FMjpg_UX1000_.jpg"
   },
   {
@@ -3597,6 +3626,7 @@
     "director": "Anna Boden, Ryan Fleck",
     "duracion": 124,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://upload.wikimedia.org/wikipedia/en/4/4e/Captain_Marvel_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
   },
   {
@@ -3607,6 +3637,7 @@
     "director": "Todd Phillips",
     "duracion": 122,
     "clasificacion": "R",
+    "plataforma": "Max",
     "imagen": "https://m.media-amazon.com/images/M/MV5BYjliNTJlYWYtYTU2Yy00YzI3LWI3NzgtOTJlMzg3YmQ3ZDRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
@@ -3617,6 +3648,7 @@
     "director": "David F. Sandberg",
     "duracion": 132,
     "clasificacion": "PG-13",
+    "plataforma": "Max",
     "imagen": "https://static.wikia.nocookie.net/dcextendeduniverse/images/8/82/Shazam_-_Official_New_Poster.png/revision/latest/thumbnail/width/360/height/360?cb=20210518032729&path-prefix=es"
   },
   {
@@ -3627,6 +3659,7 @@
     "director": "Ruben Fleischer",
     "duracion": 112,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://play-lh.googleusercontent.com/hmhO05I7ovpw924p_HXTXg7hvIMPQ5qO4pduYkKndC7k_wHgnXIeg38SM80tXF2uxGK4"
   },
   {
@@ -3637,6 +3670,7 @@
     "director": "Peyton Reed",
     "duracion": 118,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://m.media-amazon.com/images/M/MV5BODVkY2ZmZTAtYzFhMi00YzZlLWE2YWMtMDBiYjY2OTU4ZWM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
@@ -3647,6 +3681,7 @@
     "director": "Anthony Russo, Joe Russo",
     "duracion": 149,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9YmPg2px-ZnheDXUP9wc_RnZjUqbrxsQBxywj5oImF9SxpT3_uySKs9zZ&s=10"
   },
   {
@@ -3657,6 +3692,7 @@
     "director": "Ryan Coogler",
     "duracion": 134,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYSoE7-EZJZEAaetVxgq-dPX_ePVfnHl_VsKf_6EPyTw&s=10"
   },
   {
@@ -3667,6 +3703,7 @@
     "director": "James Wan",
     "duracion": 143,
     "clasificacion": "PG-13",
+    "plataforma": "Max",
     "imagen": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_FMjpg_UX1000_.jpg"
   },
   {
@@ -3677,6 +3714,7 @@
     "director": "Zack Snyder",
     "duracion": 120,
     "clasificacion": "PG-13",
+    "plataforma": "Max",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnK3IeN5nagCOx2TpQeMWm-ByNM5ntDEydi3S8jwT40A&s=10"
   },
   {
@@ -3687,6 +3725,7 @@
     "director": "Patty Jenkins",
     "duracion": 141,
     "clasificacion": "PG-13",
+    "plataforma": "Max",
     "imagen": "https://m.media-amazon.com/images/M/MV5BMjEzYmZkNjktODBmYi00NzNkLWIzMjItMjhkMWZiZTZlN2MwXkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -3697,6 +3736,7 @@
     "director": "Taika Waititi",
     "duracion": 130,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7yk6Ad9yV1IplU-T2pSQifWe8fDFWYj4zcaP6qLxirw&s=10"
   },
   {
@@ -3707,6 +3747,7 @@
     "director": "Jon Watts",
     "duracion": 133,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://m.media-amazon.com/images/M/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI@._V1_FMjpg_UX1000_.jpg"
   },
   {
@@ -3717,6 +3758,7 @@
     "director": "James Gunn",
     "duracion": 136,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://m.media-amazon.com/images/M/MV5BYTA4MGI3NzEtMzhhNS00NGZhLTg0YWYtYmZjNDExYTkxNmY3XkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -3727,6 +3769,7 @@
     "director": "Scott Derrickson",
     "duracion": 115,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0c8U10w-7-M5K11vJjBbCgliK2jQ9y6wUlYXBJnxb2g&s"
   },
   {
@@ -3737,6 +3780,7 @@
     "director": "Anthony Russo, Joe Russo",
     "duracion": 147,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEZfBGYTKfeQFp1a0ED5Z_VDup8QhvXfFz0-AcmcVm9g&s=10"
   },
   {
@@ -3747,6 +3791,7 @@
     "director": "Zack Snyder",
     "duracion": 151,
     "clasificacion": "PG-13",
+    "plataforma": "Max",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjIZb3M9hywDhSdz6R3bntCldyEwEMPOPXKgD-OWo5mg&s=10"
   },
   {
@@ -3757,6 +3802,7 @@
     "director": "Tim Miller",
     "duracion": 108,
     "clasificacion": "R",
+    "plataforma": "Disney+",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8tmWdr6CiDmHjqDYuJzOZChlhU31bENkA1BnJvWXOGmd6g_ao2o9bG07&s=10"
   },
   {
@@ -3767,6 +3813,7 @@
     "director": "Peyton Reed",
     "duracion": 117,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://upload.wikimedia.org/wikipedia/en/1/12/Ant-Man_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
   },
   {
@@ -3777,6 +3824,7 @@
     "director": "Joss Whedon",
     "duracion": 141,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Avengers_Age_of_Ultron_poster.jpg/250px-Avengers_Age_of_Ultron_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
   },
   {
@@ -3787,6 +3835,7 @@
     "director": "James Gunn",
     "duracion": 121,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://upload.wikimedia.org/wikipedia/en/3/33/Guardians_of_the_Galaxy_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
   },
   {
@@ -3797,6 +3846,7 @@
     "director": "Anthony Russo, Joe Russo",
     "duracion": 136,
     "clasificacion": "PG-13",
+    "plataforma": "Disney+",
     "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Captain_America_The_Winter_Soldier_poster.jpg/250px-Captain_America_The_Winter_Soldier_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
   }
 ]
