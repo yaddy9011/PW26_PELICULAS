@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Películas</title>
+</head>
+
+<body>
+
+    <h2>Formulario de Película</h2>
+
+    Título: <input type="text" id="titulo"><br><br>
+    Año: <input type="number" id="anio"><br><br>
+    Género: <input type="text" id="genero"><br><br>
+    Director: <input type="text" id="director"><br><br>
+    Duración: <input type="number" id="duracion"><br><br>
+    Clasificación: <input type="text" id="clasificacion"><br><br>
+    Plataforma: <input type="text" id="plataforma"><br><br>
+
+    <button onclick="generar()">Generar JSON</button>
+
+    <pre id="resultado"></pre>
+
+    <script>
+        function generar() {
+            let pelicula = {
+                titulo: titulo.value,
+                anio: Number(anio.value),
+                genero: genero.value,
+                director: director.value,
+                duracion: Number(duracion.value),
+                clasificacion: clasificacion.value,
+                plataforma: plataforma.value
+            };
+
+            resultado.textContent = JSON.stringify(pelicula, null, 4);
+        }
+    </script>
+
+</body>
+</html>
