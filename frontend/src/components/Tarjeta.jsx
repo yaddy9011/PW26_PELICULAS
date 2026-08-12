@@ -1,11 +1,11 @@
-import { link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 function Tarjeta ({item, onEliminar}){
     return(
         <article className="tarjeta">
             <img
-             src={item.img}
-             alt={item.titulo}
+            src={item.imagen}
+            alt={item.titulo}
             />
             <h2>{item.titulo}</h2>
 <p><strong>Año:</strong>{item.anio}</p>
@@ -14,11 +14,11 @@ function Tarjeta ({item, onEliminar}){
 <p><strong>Duración:</strong>{item.duracion}min</p>
 
             <div className="acciones">
-                <link to= {'/editar/${item.id'}>
+                <Link to={`/editar/${item.id}`}>
                 Editar
-                </link>
+                </Link>
                 <button onClick={()=> onEliminar(item.id)}>
-                    Eliminiar
+                       Eliminar
                 </button>
             </div>
         </article>
