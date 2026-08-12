@@ -6,7 +6,7 @@ const rutaArchivo = path.join(__dirname, '../data/peliculas.json');
 function leerDatos() {
     try {
         const datos = fs.readFileSync(rutaArchivo, 'utf-8');
-        return contenido? JSON.parse(contenido) : [];
+        return datos ? JSON.parse(datos) : [];
     } catch (error) {
         console.error('Error al leer el archivo JSON:', error);
         return [];
