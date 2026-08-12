@@ -1,4 +1,4 @@
-function Formulario ({datos, setDatos, onSumit, textoBoton}) {
+function Formulario ({datos, setDatos, onSubmit, textoBoton}) {
     function manejarCambio(evento){
         const {name, value} = evento.target;
 
@@ -67,12 +67,13 @@ return (
         </label>
         
         <label>
-            Clasificación
-            <input
-            type="text"
-            name="clasificacion"
-            onChange={manejarCambio}
-            required
+         Clasificación
+         <input
+          type="text"
+          name="clasificacion"
+          value={datos.clasificacion}
+          onChange={manejarCambio}
+          required
             />
         </label>
 
