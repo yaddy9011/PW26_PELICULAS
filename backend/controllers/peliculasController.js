@@ -1,5 +1,5 @@
 //Hyrum estubo aquí
-const { leerDatos, guardarDatos } = require("../utils/jsonFile"); 
+const { leerDatos, guardarDatos } = require("../utils/jsonfiles"); 
  
 function obtenerTodos(req, res) { 
   const datos = leerDatos(); 
