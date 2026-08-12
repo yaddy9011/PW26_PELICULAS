@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom"; 
+ 
 function Inicio() { 
   return ( 
     <main className="inicio"> 
