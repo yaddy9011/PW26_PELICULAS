@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const rutaArchivo = path.join(__dirname, '../data/archivo.json');
+const rutaArchivo = path.join(__dirname, '../data/peliculas.json');
 
 function leerDatos() {
     try {
