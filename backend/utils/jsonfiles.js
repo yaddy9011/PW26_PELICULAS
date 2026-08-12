@@ -1,4 +1,4 @@
-const fs = requiere('fs');
+const fs = require('fs');
 const path = require('path');
 
 const rutaArchivo = path.join(__dirname, '../data/archivo.json');
