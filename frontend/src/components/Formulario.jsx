@@ -78,6 +78,17 @@ return (
         </label>
 
         <label>
+         Plataforma
+         <input
+          type="text"
+          name="plataforma"
+          value={datos.plataforma}
+          onChange={manejarCambio}
+          required
+            />
+        </label>
+
+        <label>
             URL del póster
             <input
             type="url"
