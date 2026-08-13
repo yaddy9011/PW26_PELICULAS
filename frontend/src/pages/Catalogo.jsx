@@ -48,7 +48,7 @@ function Catalogo() {
   if (error) return <p>{error}</p>; 
  
   return ( 
-    <main> 
+      <main className="catalogo-pagina">
       <div className="encabezado-catalogo"> 
         <h2>Catálogo de Películas</h2> 
         <Link to="/agregar">Agregar nuevo</Link> 
