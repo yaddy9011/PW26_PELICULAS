@@ -23,7 +23,6 @@ return (
             required
             />
         </label>
-
         <label>
             Año
             <input
