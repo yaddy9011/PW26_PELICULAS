@@ -3859,5 +3859,16 @@
     "clasificacion": "B",
     "plataforma": "Cuevana",
     "imagen": "https://es.web.img3.acsta.net/medias/nmedia/18/79/48/21/19504428.jpg"
+  },
+  {
+    "id": 352,
+    "titulo": "Tinker Bell y el rescate de las hadas",
+    "anio": 2010,
+    "genero": "Animación, Fantasía, Aventura",
+    "director": "Bradley Raymond",
+    "duracion": 76,
+    "clasificacion": "G",
+    "plataforma": "Disney+",
+    "imagen": "https://static.wikia.nocookie.net/doblaje/images/3/34/Tinkgfr.jpg/revision/latest?cb=20201226175802&path-prefix=es"
   }
 ]
