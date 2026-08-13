@@ -3848,5 +3848,16 @@
     "clasificacion": "PG-13",
     "plataforma": "Disney+",
     "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Captain_America_The_Winter_Soldier_poster.jpg/250px-Captain_America_The_Winter_Soldier_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+  },
+  {
+    "id": 352,
+    "titulo": "Tinker Bell y el rescate de las hadas",
+    "anio": 2010,
+    "genero": "Animación, Fantasía, Aventura",
+    "director": "Bradley Raymond",
+    "duracion": 76,
+    "clasificacion": "G",
+    "plataforma": "Disney+",
+    "imagen": "https://static.wikia.nocookie.net/doblaje/images/3/34/Tinkgfr.jpg/revision/latest?cb=20201226175802&path-prefix=es"
   }
 ]
