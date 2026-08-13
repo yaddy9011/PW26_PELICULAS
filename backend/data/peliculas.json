@@ -3848,5 +3848,16 @@
     "clasificacion": "PG-13",
     "plataforma": "Disney+",
     "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Captain_America_The_Winter_Soldier_poster.jpg/250px-Captain_America_The_Winter_Soldier_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+  },
+  {
+    "id": 353,
+    "titulo": "Harry Poter y la piedra filosofal",
+    "anio": 2001,
+    "genero": "Fantasia",
+    "director": "Chris Columbus",
+    "duracion": 152,
+    "clasificacion": "B",
+    "plataforma": "Max",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmePecFTbnbr3wMj4odIYdj3TXB8aGm6gwKw&s"
   }
 ]
