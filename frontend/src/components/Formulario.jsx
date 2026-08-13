@@ -23,7 +23,6 @@ return (
             required
             />
         </label>
-
         <label>
             Año
             <input
@@ -58,7 +57,7 @@ return (
         </label>
          
         <label>
-            duración en minutos
+            Duración en minutos
             <input
             type="number"
             name="duracion"
