@@ -58,7 +58,7 @@ return (
         </label>
          
         <label>
-            duración en minutos
+            Duración en minutos
             <input
             type="number"
             name="duracion"
