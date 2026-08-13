@@ -1,10 +1,182 @@
-.contenedor{
-    max-width:1100px;
-    margin:auto;
-    background:rgba(255,255,255,.08);
-    backdrop-filter:blur(10px);
-    border-radius:20px;
-    padding:40px;
-    box-shadow:0 0 30px rgba(0,0,0,.4);
+.formulario {
+    width: 90%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 35px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+
+    /* Glassmorphism */
+    background: rgba(20, 20, 25, 0.65);
+    backdrop-filter: blur(18px);
+    -webkit-backdrop-filter: blur(18px);
+
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6), 0 0 30px rgba(130, 50, 255, 0.08);
+    color: white;
+    animation: aparecer 0.6s ease;
 }
+
+.formulario label {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+    color: #e5e5e5;
+    font-size: 14px;
+    font-weight: 500;
+
+    transition: 0.3s ease;
+}
+
+.formulario label:hover {
+    color: #c084fc;
+}
+
+
+/* =========================
+   INPUTS
+   ========================= */
+
+.formulario input {
+    width: 100%;
+    box-sizing: border-box;
+
+    padding: 13px 15px;
+
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 10px;
+
+    color: white;
+    font-size: 14px;
+
+    outline: none;
+}
+
+
+/* Placeholder */
+
+.formulario input::placeholder {
+    color: #777;
+}
+
+
+/* Cuando pasas el cursor */
+
+.formulario input:hover {
+    background: rgba(255, 255, 255, 0.09);
+    border-color: rgba(168, 85, 247, 0.4);
+
+    transform: translateY(-1px);
+}
+
+
+/* Cuando haces click */
+
+.formulario input:focus {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: #a855f7;
+    box-shadow:
+        0 0 0 2px rgba(168, 85, 247, 0.15),
+        0 0 20px rgba(168, 85, 247, 0.15);
+    transform: translateY(-2px);
+}
+
+.formulario button {
+    margin-top: 10px;
+    padding: 14px 20px;
+    border: none;
+    border-radius: 12px;
+    background: linear-gradient( 135deg, #7c3aed, #a855f7);
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow:
+        0 8px 20px rgba(124, 58, 237, 0.25);
+
+}
+
+
+/* Hover del botón */
+
+.formulario button:hover {
+    transform: translateY(-3px) scale(1.02);
+
+    background: linear-gradient(
+        135deg,
+        #9333ea,
+        #c026d3
+    );
+
+    box-shadow:
+        0 12px 30px rgba(168, 85, 247, 0.4);
+}
+/* Click */
+
+.formulario button:active {
+    transform: translateY(0) scale(0.98);
+}
+
+/* =========================
+   ANIMACIÓN DE ENTRADA
+   ========================= */
+
+@keyframes aparecer {
+
+    from {
+        opacity: 0;
+        transform: translateY(25px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* =========================
+   DETALLE ROJO
+   ========================= */
+
+.formulario::before {
+    content: "";
+    position: absolute;
+
+    width: 100px;
+    height: 100px;
+
+    background: rgba(239, 68, 68, 0.12);
+
+    filter: blur(50px);
+
+    border-radius: 50%;
+
+    pointer-events: none;
+}
+
+/* =========================
+   RESPONSIVE
+   ========================= */
+
+@media (max-width: 600px) {
+
+    .formulario {
+        width: 85%;
+        padding: 25px;
+        margin: 30px auto;
+    }
+
+    .formulario input {
+        padding: 12px;
+    }
+
+    .formulario button {
+        padding: 13px;
+    }
 
