@@ -10,6 +10,10 @@
     padding: 40px 20px;
 
     box-sizing: border-box;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .inicio h2 {
