@@ -3848,5 +3848,16 @@
     "clasificacion": "PG-13",
     "plataforma": "Disney+",
     "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Captain_America_The_Winter_Soldier_poster.jpg/250px-Captain_America_The_Winter_Soldier_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+  },
+  {
+    "id": 351,
+    "titulo": "El ataque de los tomates asesinos",
+    "anio": 1978,
+    "genero": "Terror",
+    "director": "John de Bello",
+    "duracion": 87,
+    "clasificacion": "B",
+    "plataforma": "Cuevana",
+    "imagen": "https://es.web.img3.acsta.net/medias/nmedia/18/79/48/21/19504428.jpg"
   }
 ]
