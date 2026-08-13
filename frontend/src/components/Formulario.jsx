@@ -1,3 +1,4 @@
+import "./Formulario.css";
 function Formulario ({datos, setDatos, onSubmit, textoBoton}) {
     function manejarCambio(evento){
         const {name, value} = evento.target;
