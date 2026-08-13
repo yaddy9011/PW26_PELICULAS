@@ -10,7 +10,8 @@ function Formulario ({datos, setDatos, onSubmit, textoBoton}) {
     } 
 
 return (
-    <form className="formulario" onSubmit={onSubmit}>
+<div className="seccionform">
+<form className="formulario" onSubmit={onSubmit}>
         
         <label>
             Titulo
@@ -102,7 +103,9 @@ return (
 
         <button type="submit">{textoBoton} </button>
     </form>
+    </div>
     );
+
 }
 
 export default Formulario; 

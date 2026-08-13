@@ -79,12 +79,12 @@
   {
     "id": 8,
     "titulo": "Yo antes de ti",
-    "anio": 2016,
+    "anio": 2014,
     "genero": "Romance",
     "director": "Thea Sharrock",
-    "duracion": 110,
-    "clasificacion": "B",
-    "plataforma": "Max",
+    "duracion": 222,
+    "clasificacion": "C",
+    "plataforma": "Netflix",
     "imagen": "https://m.media-amazon.com/images/M/MV5BZjU3NmJmYWItMDVhZC00NmM2LWI3YzEtYTg4MzA0YWZiYTQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
