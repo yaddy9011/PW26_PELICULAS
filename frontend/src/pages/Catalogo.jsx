@@ -1,3 +1,4 @@
+import fondo from "../imag/fondoform.png";
 import "./Catalogo.css";
 import { useEffect, useState } from "react"; 
 import { Link } from "react-router-dom"; 
@@ -48,7 +49,12 @@ function Catalogo() {
   if (error) return <p>{error}</p>; 
  
   return ( 
-      <main className="catalogo-pagina">
+      <main
+  className="catalogo-pagina"
+  style={{
+    backgroundImage: `linear-gradient(rgba(8, 8, 13, 0.72), rgba(8, 8, 13, 0.88)), url(${fondo})`
+  }}
+>
       <div className="encabezado-catalogo"> 
         <h2>Catálogo de Películas</h2> 
         <Link to="/agregar">Agregar nuevo</Link> 
